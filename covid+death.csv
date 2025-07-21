@@ -4384,8 +4384,6 @@ Data as of,Start Week,End Week,State,Condition Group,Condition,ICD10_codes,Age G
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Ischemic heart disease,I20-I25,35-44,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Ischemic heart disease,I20-I25,45-54,10,
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Ischemic heart disease,I20-I25,55-64,44,
-08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Ischemic heart disease,I20-I25,65-74,91,
-08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Ischemic heart disease,I20-I25,75-84,147,
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Ischemic heart disease,I20-I25,85+,120,
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Ischemic heart disease,I20-I25,Not stated,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Ischemic heart disease,I20-I25,All ages,413,
@@ -4403,9 +4401,6 @@ Data as of,Start Week,End Week,State,Condition Group,Condition,ICD10_codes,Age G
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",25-34,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",35-44,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",45-54,10,
-08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",55-64,21,
-08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",65-74,37,
-08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",75-84,79,
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",85+,65,
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",Not stated,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All ages,215,
@@ -4434,12 +4429,6 @@ Data as of,Start Week,End Week,State,Condition Group,Condition,ICD10_codes,Age G
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",35-44,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",45-54,14,
 08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",55-64,34,
-08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",65-74,41,
-08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",75-84,65,
-08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",85+,52,
-08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",Not stated,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,LA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All ages,219,
-08/30/2020,02/01/2020,08/29/2020,LA,Sepsis,Sepsis,A40-A41,0-24,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Sepsis,Sepsis,A40-A41,25-34,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Sepsis,Sepsis,A40-A41,35-44,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Sepsis,Sepsis,A40-A41,45-54,20,
@@ -4503,39 +4492,20 @@ Data as of,Start Week,End Week,State,Condition Group,Condition,ICD10_codes,Age G
 08/30/2020,02/01/2020,08/29/2020,LA,Renal failure,Renal failure,N17-N19,25-34,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Renal failure,Renal failure,N17-N19,35-44,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Renal failure,Renal failure,N17-N19,45-54,27,
-08/30/2020,02/01/2020,08/29/2020,LA,Renal failure,Renal failure,N17-N19,55-64,51,
-08/30/2020,02/01/2020,08/29/2020,LA,Renal failure,Renal failure,N17-N19,65-74,82,
-08/30/2020,02/01/2020,08/29/2020,LA,Renal failure,Renal failure,N17-N19,75-84,81,
 08/30/2020,02/01/2020,08/29/2020,LA,Renal failure,Renal failure,N17-N19,85+,54,
 08/30/2020,02/01/2020,08/29/2020,LA,Renal failure,Renal failure,N17-N19,Not stated,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Renal failure,Renal failure,N17-N19,All ages,309,
 08/30/2020,02/01/2020,08/29/2020,LA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",0-24,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",25-34,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,LA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",35-44,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,LA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",45-54,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,LA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",55-64,16,
-08/30/2020,02/01/2020,08/29/2020,LA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",65-74,16,
-08/30/2020,02/01/2020,08/29/2020,LA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",75-84,15,
-08/30/2020,02/01/2020,08/29/2020,LA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",85+,24,
-08/30/2020,02/01/2020,08/29/2020,LA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",Not stated,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All ages,89,
 08/30/2020,02/01/2020,08/29/2020,LA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",0-24,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",25-34,17,
 08/30/2020,02/01/2020,08/29/2020,LA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",35-44,26,
 08/30/2020,02/01/2020,08/29/2020,LA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",45-54,103,
-08/30/2020,02/01/2020,08/29/2020,LA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",55-64,266,
-08/30/2020,02/01/2020,08/29/2020,LA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",65-74,412,
-08/30/2020,02/01/2020,08/29/2020,LA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",75-84,498,
-08/30/2020,02/01/2020,08/29/2020,LA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",85+,433,
-08/30/2020,02/01/2020,08/29/2020,LA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",Not stated,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All ages,1764,
 08/30/2020,02/01/2020,08/29/2020,LA,Coronavirus Disease 2019,COVID-19,U071,0-24,13,
-08/30/2020,02/01/2020,08/29/2020,LA,Coronavirus Disease 2019,COVID-19,U071,25-34,32,
-08/30/2020,02/01/2020,08/29/2020,LA,Coronavirus Disease 2019,COVID-19,U071,35-44,93,
 08/30/2020,02/01/2020,08/29/2020,LA,Coronavirus Disease 2019,COVID-19,U071,45-54,228,
 08/30/2020,02/01/2020,08/29/2020,LA,Coronavirus Disease 2019,COVID-19,U071,55-64,560,
-08/30/2020,02/01/2020,08/29/2020,LA,Coronavirus Disease 2019,COVID-19,U071,65-74,893,
-08/30/2020,02/01/2020,08/29/2020,LA,Coronavirus Disease 2019,COVID-19,U071,75-84,1197,
 08/30/2020,02/01/2020,08/29/2020,LA,Coronavirus Disease 2019,COVID-19,U071,85+,1080,
 08/30/2020,02/01/2020,08/29/2020,LA,Coronavirus Disease 2019,COVID-19,U071,Not stated,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,LA,Coronavirus Disease 2019,COVID-19,U071,All ages,4096,
@@ -4589,12 +4559,6 @@ Data as of,Start Week,End Week,State,Condition Group,Condition,ICD10_codes,Age G
 08/30/2020,02/01/2020,08/29/2020,MA,Respiratory diseases,Respiratory arrest,R09.2,85+,109,
 08/30/2020,02/01/2020,08/29/2020,MA,Respiratory diseases,Respiratory arrest,R09.2,Not stated,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,MA,Respiratory diseases,Respiratory arrest,R09.2,All ages,253,
-08/30/2020,02/01/2020,08/29/2020,MA,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",0-24,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",25-34,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",35-44,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",45-54,10,
-08/30/2020,02/01/2020,08/29/2020,MA,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",55-64,22,
-08/30/2020,02/01/2020,08/29/2020,MA,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",65-74,43,
 08/30/2020,02/01/2020,08/29/2020,MA,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",75-84,103,
 08/30/2020,02/01/2020,08/29/2020,MA,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",85+,160,
 08/30/2020,02/01/2020,08/29/2020,MA,Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",Not stated,,Counts less than 10 suppressed.
@@ -4616,14 +4580,6 @@ Data as of,Start Week,End Week,State,Condition Group,Condition,ICD10_codes,Age G
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Ischemic heart disease,I20-I25,55-64,25,
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Ischemic heart disease,I20-I25,65-74,82,
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Ischemic heart disease,I20-I25,75-84,154,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Ischemic heart disease,I20-I25,85+,283,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Ischemic heart disease,I20-I25,Not stated,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Ischemic heart disease,I20-I25,All ages,552,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrest,I46,0-24,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrest,I46,25-34,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrest,I46,35-44,10,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrest,I46,45-54,27,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrest,I46,55-64,85,
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrest,I46,65-74,174,
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrest,I46,75-84,234,
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrest,I46,85+,348,
@@ -4631,15 +4587,7 @@ Data as of,Start Week,End Week,State,Condition Group,Condition,ICD10_codes,Age G
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrest,I46,All ages,880,
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",0-24,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",25-34,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",35-44,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",45-54,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",55-64,22,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",65-74,63,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",75-84,96,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",85+,253,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",Not stated,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All ages,445,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Heart failure,I50,0-24,,Counts less than 10 suppressed.
+008/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Heart failure,I50,0-24,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Heart failure,I50,25-34,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Heart failure,I50,35-44,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Heart failure,I50,45-54,,Counts less than 10 suppressed.
@@ -4662,11 +4610,6 @@ Data as of,Start Week,End Week,State,Condition Group,Condition,ICD10_codes,Age G
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",0-24,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",25-34,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",35-44,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",45-54,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",55-64,35,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",65-74,72,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",75-84,94,
-08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",85+,147,
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",Not stated,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,MA,Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All ages,363,
 08/30/2020,02/01/2020,08/29/2020,MA,Sepsis,Sepsis,A40-A41,0-24,,Counts less than 10 suppressed.
@@ -4680,12 +4623,6 @@ Data as of,Start Week,End Week,State,Condition Group,Condition,ICD10_codes,Age G
 08/30/2020,02/01/2020,08/29/2020,MA,Sepsis,Sepsis,A40-A41,Not stated,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,MA,Sepsis,Sepsis,A40-A41,All ages,564,
 08/30/2020,02/01/2020,08/29/2020,MA,Malignant neoplasms,Malignant neoplasms,C00-C97,0-24,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Malignant neoplasms,Malignant neoplasms,C00-C97,25-34,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Malignant neoplasms,Malignant neoplasms,C00-C97,35-44,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,Malignant neoplasms,Malignant neoplasms,C00-C97,45-54,11,
-08/30/2020,02/01/2020,08/29/2020,MA,Malignant neoplasms,Malignant neoplasms,C00-C97,55-64,31,
-08/30/2020,02/01/2020,08/29/2020,MA,Malignant neoplasms,Malignant neoplasms,C00-C97,65-74,81,
-08/30/2020,02/01/2020,08/29/2020,MA,Malignant neoplasms,Malignant neoplasms,C00-C97,75-84,106,
 08/30/2020,02/01/2020,08/29/2020,MA,Malignant neoplasms,Malignant neoplasms,C00-C97,85+,109,
 08/30/2020,02/01/2020,08/29/2020,MA,Malignant neoplasms,Malignant neoplasms,C00-C97,Not stated,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,MA,Malignant neoplasms,Malignant neoplasms,C00-C97,All ages,339,
@@ -4742,15 +4679,7 @@ Data as of,Start Week,End Week,State,Condition Group,Condition,ICD10_codes,Age G
 08/30/2020,02/01/2020,08/29/2020,MA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",0-24,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,MA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",25-34,,Counts less than 10 suppressed.
 08/30/2020,02/01/2020,08/29/2020,MA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",35-44,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",45-54,11,
-08/30/2020,02/01/2020,08/29/2020,MA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",55-64,48,
-08/30/2020,02/01/2020,08/29/2020,MA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",65-74,50,
-08/30/2020,02/01/2020,08/29/2020,MA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",75-84,60,
-08/30/2020,02/01/2020,08/29/2020,MA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",85+,118,
-08/30/2020,02/01/2020,08/29/2020,MA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",Not stated,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,"Intentional and unintentional injury, poisoning and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All ages,295,
-08/30/2020,02/01/2020,08/29/2020,MA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",0-24,,Counts less than 10 suppressed.
-08/30/2020,02/01/2020,08/29/2020,MA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",25-34,15,
+08/308/30/2020,02/01/2020,08/29/2020,MA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",25-34,15,
 08/30/2020,02/01/2020,08/29/2020,MA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",35-44,38,
 08/30/2020,02/01/2020,08/29/2020,MA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",45-54,110,
 08/30/2020,02/01/2020,08/29/2020,MA,All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",55-64,350,
